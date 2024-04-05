@@ -20,7 +20,7 @@ public class Main {
     }
 
     // Task 1: Create a class Product inside Main class
-    static class Product {
+    public static class Product {
         // Task 3: Create method product(int x, int y)
         public int product(int x, int y) {
             return x * y;
